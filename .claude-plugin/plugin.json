@@ -9,6 +9,5 @@
   "license": "MIT",
   "keywords": ["testing", "golden-master", "autonomous", "pipeline"],
   "commands": ["./commands/"],
-  "agents": "./agents/",
   "hooks": "./hooks/hooks.json"
 }
