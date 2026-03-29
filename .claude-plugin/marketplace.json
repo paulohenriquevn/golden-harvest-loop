@@ -2,23 +2,23 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "golden-harvest-loop",
   "version": "0.1.0",
-  "description": "Golden Harvest Loop - Autonomous golden master testing pipeline for Claude Code",
+  "description": "Golden Harvest Loop - Autonomous golden master testing pipeline that extracts, normalizes, and validates test suites across implementations.",
   "owner": {
     "name": "paulohenriquevn",
-    "email": "paulo@usemacaw.com"
+    "email": "paulohenriquevn@gmail.com"
   },
   "plugins": [
     {
       "name": "golden-harvest-loop",
-      "description": "Autonomous 5-phase golden master testing pipeline that extracts, normalizes, and validates test suites across implementations",
+      "description": "Autonomous 5-phase golden master testing pipeline with 16 specialized agents, quality gates, differential testing, and inter-agent communication. Give it a reference test suite, walk away, come back to a complete compatibility report.",
       "source": {
         "source": "github",
         "repo": "paulohenriquevn/golden-harvest-loop"
       },
       "version": "0.1.0",
       "author": {
-        "name": "paulohenriquevn",
-        "email": "paulo@usemacaw.com"
+        "name": "Paulo Henrique",
+        "email": "paulohenriquevn@gmail.com"
       },
       "category": "testing"
     }
