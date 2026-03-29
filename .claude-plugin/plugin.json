@@ -1,0 +1,14 @@
+{
+  "name": "golden-harvest-loop",
+  "version": "0.1.0",
+  "description": "Autonomous 5-phase golden master testing pipeline that extracts, normalizes, and validates test suites across implementations",
+  "author": {
+    "name": "paulohenriquevn"
+  },
+  "repository": "https://github.com/paulohenriquevn/golden-harvest-loop",
+  "license": "MIT",
+  "keywords": ["testing", "golden-master", "autonomous", "pipeline"],
+  "commands": ["./commands/"],
+  "agents": "./agents/",
+  "hooks": "./hooks/hooks.json"
+}

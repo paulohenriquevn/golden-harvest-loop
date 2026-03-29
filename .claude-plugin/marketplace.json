@@ -1,0 +1,27 @@
+{
+  "name": "golden-harvest-loop",
+  "owner": {
+    "name": "paulohenriquevn",
+    "email": "noreply@github.com"
+  },
+  "metadata": {
+    "description": "Golden Harvest Loop - Autonomous golden master testing pipeline for Claude Code",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "golden-harvest-loop",
+      "source": ".",
+      "description": "Autonomous 5-phase golden master testing pipeline that extracts, normalizes, and validates test suites across implementations",
+      "version": "0.1.0",
+      "author": {
+        "name": "paulohenriquevn"
+      },
+      "repository": "https://github.com/paulohenriquevn/golden-harvest-loop",
+      "license": "MIT",
+      "keywords": ["testing", "golden-master", "autonomous", "pipeline"],
+      "category": "testing",
+      "tags": ["golden-master", "test-extraction", "compatibility-testing"]
+    }
+  ]
+}
